@@ -1,2 +1,2 @@
 # python-mysql-db-flaskapp
-This is flask app
+In this repository, we are going to install python application which is the flash based REST API.
