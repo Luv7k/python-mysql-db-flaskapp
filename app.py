@@ -4,7 +4,7 @@ import pymysql
 app = Flask(__name__)
 
 def get_db_connection():
-    connection = pymysql.connect(host='mydb.cxe0yiy6ib2q.us-east-1.rds.amazonaws.com',  
+    connection = pymysql.connect(host='mydb.c96s4o0q0mnz.us-east-1.rds.amazonaws.com',  
                                  user='dbuser',      
                                  password='dbpassword',  
                                  db='devprojdb',  
